@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Zahlensystemumrechner7\bin\Debug\Zahlensystemumrechner7.exe.config
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Zahlensystemumrechner7\bin\Debug\Zahlensystemumrechner7.exe
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Zahlensystemumrechner7\bin\Debug\Zahlensystemumrechner7.pdb
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Zahlensystemumrechner7\obj\Debug\Zahlensystemumrechner7.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Zahlensystemumrechner7\obj\Debug\Zahlensystemumrechner7.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Zahlensystemumrechner7\obj\Debug\Zahlensystemumrechner7.exe
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Zahlensystemumrechner7\obj\Debug\Zahlensystemumrechner7.pdb
